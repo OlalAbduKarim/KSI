@@ -1,0 +1,8 @@
+{
+  "name": "Kampala Schools Intelligence System (KSIS)",
+  "description": "Centralised education intelligence and school performance monitoring platform for Kampala schools, developed by Analytica Technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
